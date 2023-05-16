@@ -30,7 +30,7 @@ This project was created by Jude Okafor
 
 ## 2. Natural Language Processing
 
-### nlp_1
+### a) nlp_1
 
 ### Description
 The objective of this project (nlp_1) is to categorize diverse natural language processing (NLP) use-cases into four main categories: Text classification, Automatic summarization, Sentiment analysis, and Question answering. The aim is to assist users in comprehending the different NLP applications and their respective uses, and to provide guidance in selecting the most appropriate application for their requirements.
@@ -51,7 +51,7 @@ No installation is required for this project as it is a summary document.
 To use this project, simply read through the document to gain an understanding of NLP use-cases.
 
 
-### nlp_2
+### b) nlp_2
 
 ### Description
 This project (nlp_2) also presents a concise overview of Google's BERT technology that utilizes NLP, its capabilities and functions, as well as a general description of its workings. The intended audience for this project comprises individuals who are keenly interested in Natural Language Processing and wish to enhance their understanding of Google's BERT technology.
